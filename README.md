@@ -1,3 +1,11 @@
+> # 📍 Moved to GitLab
+> **The canonical, authoritative home of this project is GitLab — always:**
+> ## 👉 https://gitlab.com/ncz-os/zcon
+>
+> This GitHub repository is a **frozen, read-only mirror**. All development, issues, and releases happen on GitLab. Please open issues and merge requests there. The full history of this stub is preserved on GitLab.
+
+---
+
 # zcon — nclawzero SYSCON
 
 **Multi-pane administrative console for the nclawzero distro.**
